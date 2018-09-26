@@ -1,0 +1,11 @@
+C:\Users\qteifan\source\repos\JWT.AuthService\JWT.AuthService\bin\Debug\netcoreapp2.0\JWT.AuthService.deps.json
+C:\Users\qteifan\source\repos\JWT.AuthService\JWT.AuthService\bin\Debug\netcoreapp2.0\JWT.AuthService.runtimeconfig.json
+C:\Users\qteifan\source\repos\JWT.AuthService\JWT.AuthService\bin\Debug\netcoreapp2.0\JWT.AuthService.runtimeconfig.dev.json
+C:\Users\qteifan\source\repos\JWT.AuthService\JWT.AuthService\bin\Debug\netcoreapp2.0\JWT.AuthService.dll
+C:\Users\qteifan\source\repos\JWT.AuthService\JWT.AuthService\bin\Debug\netcoreapp2.0\JWT.AuthService.pdb
+C:\Users\qteifan\source\repos\JWT.AuthService\JWT.AuthService\obj\Debug\netcoreapp2.0\JWT.AuthService.csproj.CoreCompileInputs.cache
+C:\Users\qteifan\source\repos\JWT.AuthService\JWT.AuthService\obj\Debug\netcoreapp2.0\JWT.AuthService.AssemblyInfoInputs.cache
+C:\Users\qteifan\source\repos\JWT.AuthService\JWT.AuthService\obj\Debug\netcoreapp2.0\JWT.AuthService.AssemblyInfo.cs
+C:\Users\qteifan\source\repos\JWT.AuthService\JWT.AuthService\obj\Debug\netcoreapp2.0\JWT.AuthService.dll
+C:\Users\qteifan\source\repos\JWT.AuthService\JWT.AuthService\obj\Debug\netcoreapp2.0\JWT.AuthService.pdb
+C:\Users\qteifan\source\repos\JWT.AuthService\JWT.AuthService\obj\Debug\netcoreapp2.0\JWT.AuthService.csprojResolveAssemblyReference.cache
